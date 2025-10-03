@@ -1,8 +1,7 @@
 # Customer-Churn-Prediction-Intervention-System
-This repository contains the End-to-End Customer Churn Prediction &amp; Intervention System—a cloud-architected analytics project designed to drive proactive revenue retention for a telecom company.
-# Customer Churn Prediction & Intervention System
 
-**Project Type:** End-to-End Advanced Analytics & Business Intelligence Solution
+This repository contains the **Customer Churn Prediction & Intervention System** — an end-to-end advanced analytics and BI solution designed to proactively reduce churn and protect telecom revenue using predictive modeling, explainable AI, and interactive dashboards.
+
 
 ---
 
