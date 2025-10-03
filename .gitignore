@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+project_db.sqlite 
+Churn_Prediction_Intervention_System_V1.pbix 
+*.pkl 
+*.csv 
+*.ipynb_checkpoints 
